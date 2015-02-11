@@ -4,12 +4,6 @@ Personalsite::Application.configure do
   # Code is not reloaded between requests.
   config.cache_classes = true
 
-#Get images
-config.assets.compile = true
-
-config.serve_static_assets = true
-
-RAILS_ENV=production rake assets:precompile
 
   # Eager load code on boot. This eager loads most of Rails and
   # your application in memory, allowing both thread web servers
