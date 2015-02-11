@@ -1,10 +1,15 @@
-$body-bg: #ecf0f1;
-$navbar-inverse-bg:	#bdc3c7;
-$navbar-inverse-link-color: #7f8c8d;
+$body-bg: #EEEEEE;
+$navbar-inverse-bg:	#515151;
+$navbar-inverse-link-color: #EEEEEE;
 $jumbotron-bg: white;
 $navbar-height: 45px;
-$brand-primary: #c0392b;
+$brand-primary: #515151;
 $navbar-default-brand-color: #c0392b;
+$link-color: #EEEEEE;
+$link-hover-color: gray-lighter;
+$text-color: #515151;
+
+$navbar-inverse-text-color: #EEEEEE;
 
 
 
@@ -14,6 +19,10 @@ $navbar-default-brand-color: #c0392b;
   text-align: center;
   margin-left: auto;
   margin-right:auto;
+}
+
+.splitter {
+  color: #EEEEEE;
 }
 
 body { padding-top: 70px; }
