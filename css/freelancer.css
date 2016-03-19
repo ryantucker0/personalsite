@@ -3,6 +3,29 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+img {
+  max-width: 100%;
+  width: auto   9;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+    margin: 0 auto;
+    height:1000px;
+}
+.cap1 {
+  margin-bottom: 10%;
+}
+.cap2 {
+  margin-bottom: 20%;
+}
+.cap3{
+  margin-bottom: 15%;
+}
 
 body {
     overflow-x: hidden;
