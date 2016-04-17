@@ -12,6 +12,11 @@ img {
   -ms-interpolation-mode: bicubic;
 }
 
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
     width: 100%;
     margin: 0 auto;
