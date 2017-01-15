@@ -21,3 +21,7 @@ body{
 div.working{
 	margin:100px;
 }
+
+h3.noMargin{
+	margin-bottom:0px;
+}
