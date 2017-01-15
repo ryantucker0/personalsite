@@ -1,0 +1,23 @@
+div.header{
+	margin:50px;
+}
+
+a.Epic {
+	text-decoration: underline;
+	color: red;
+}
+
+a.Epic:visited {
+	text-decoration: underline;
+	color: #8b0000;
+}
+
+
+
+body{
+	text-align: center;
+}
+
+div.working{
+	margin:100px;
+}
