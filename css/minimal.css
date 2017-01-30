@@ -25,3 +25,7 @@ div.working{
 h3.noMargin{
 	margin-bottom:0px;
 }
+
+div.typeWriter{
+	font-family: monospace, Courier, Courier New
+}
